@@ -1,4 +1,4 @@
-# CS271 Introduction to Artificial Intelligence Project
+# Introduction to Artificial Intelligence Project
 
 ## Overview
 
