@@ -7,7 +7,7 @@ from collections import defaultdict
 start_time = time.time()
 random.seed(0)
 
-with open("./benchmarks/sokoban-04.txt", "r") as file:
+with open("./benchmarks-fixed/sokoban-04.txt", "r") as file:
     dimensions = file.readline()
     row_size = int(dimensions.split()[0])
     col_size = int(dimensions.split()[1])
